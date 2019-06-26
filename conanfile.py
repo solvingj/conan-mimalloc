@@ -6,7 +6,7 @@ import os
 
 class MimallocConan(ConanFile):
     name = "mimalloc"
-    version = "20190623"
+    version = "1.0"
     description = "mimalloc is a compact general purpose allocator with excellent performance"
     topics = ("ansic", "pure-c", "memory", "malloc")
     url = "https://github.com/bincrafters/conan-mimalloc"
